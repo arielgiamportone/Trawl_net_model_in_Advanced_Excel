@@ -1,5 +1,7 @@
 # Optimización y Diseño Avanzado de Redes de Arrastre: Innovación en Métodos de Pesca para el Canal Beagle
 ## # Proyecto de Análisis de Datos en Pesca y Ciencia de Datos
+**Giamportone, Ariel Lujan** 
+**ALG Data&Engineering Solutions**
 
 ### Descripción del Proyecto
 Este repositorio contiene un proyecto de análisis de datos en el campo de la pesca y la ciencia de datos aplicada a la ingeniería pesquera. El proyecto se centra en el análisis, dimensionamiento y optimización de una red de arrastre de la serie FAO, con posibles aplicaciones en especies del Canal Beagle.
@@ -14,6 +16,8 @@ El objetivo principal de este proyecto es proporcionar a los pescadores herramie
 
 ### Resultados Significativos
 Se presentan los resultados más significativos del análisis, incluyendo recomendaciones para los pescadores basadas en los cálculos y análisis realizados.
+
+Haz clik en el enlace para ver el informe completo en [ResearchGate](https://www.researchgate.net/publication/379257264_Optimizacion_y_Diseno_Avanzado_de_Redes_de_Arrastre_Innovacion_en_Metodos_de_Pesca_para_el_Canal_Beagle) 
 
 Se destacan los hallazgos clave, como los rangos recomendados de potencia del buque y velocidades de arrastre para diferentes configuraciones de la red de arrastre.
 
